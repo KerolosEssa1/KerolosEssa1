@@ -3,33 +3,27 @@
 <h3 align="center">Backend PHP Developer | Full Stack Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+PHP+Developer;Full+Stack+Web+Developer;Computer+Science+Student;Building+Web+Applications&center=true&width=500&height=50" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KerolosEssa1&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=Backend+PHP+Developer;Full+Stack+Web+Developer;Computer+Science+Student;Building+Web+Applications" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💻 Backend PHP Developer & Full Stack Web Developer
-- 🎓 Computer Science Student
-- 🐘 Currently learning PHP & Laravel
-- 🗄️ Working with MySQL and relational databases
-- 🌐 Building Web Applications and E-Commerce Systems
-- 🔧 Interested in Backend Development, APIs, and Database Design
-- 🚀 Always learning and improving my development skills
+* 💻 Backend PHP Developer & Full Stack Web Developer
+* 🎓 Computer Science Student
+* 🐘 Currently learning PHP & Laravel
+* 🗄️ Working with MySQL and relational databases
+* 🌐 Building Web Applications and E-Commerce Systems
+* 🔧 Interested in Backend Development, APIs, and Database Design
+* 🚀 Always learning and improving my development skills
 
 ---
 
 ## 🛠️ Languages & Technologies
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,linux,laravel" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,linux,laravel" />
 </p>
 
 ---
@@ -37,17 +31,16 @@
 ## 📚 Currently Learning
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js" />
-
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js" />
 </p>
 
-- PHP
-- MySQL
-- Laravel
-- JavaScript
-- Backend Architecture
-- REST APIs
+* PHP
+* MySQL
+* Laravel
+* JavaScript
+* Backend Architecture
+* REST APIs
+* Database Design
 
 ---
 
@@ -58,12 +51,13 @@
 A full E-Commerce Web Application built using PHP.
 
 **Technologies:**
-- PHP
-- HTML
-- CSS
-- JavaScript
-- JSON
-- Sessions
+
+* PHP
+* HTML
+* CSS
+* JavaScript
+* JSON
+* Sessions
 
 🔗 [View Project](https://github.com/KerolosEssa1/PMS-project)
 
@@ -74,22 +68,21 @@ A full E-Commerce Web Application built using PHP.
 A web-based management system designed to manage gym members, memberships, trainers, payments, attendance, and other gym operations.
 
 **Technologies:**
-- PHP
-- MySQL
-- HTML
-- CSS
-- JavaScript
+
+* PHP
+* MySQL
+* HTML
+* CSS
+* JavaScript
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KerolosEssa1&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=KerolosEssa1&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KerolosEssa1&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KerolosEssa1&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -97,9 +90,7 @@ A web-based management system designed to manage gym members, memberships, train
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=KerolosEssa1&theme=tokyonight&hide_border=true" />
-
+  <img src="https://streak-stats.demolab.com?user=KerolosEssa1&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -107,9 +98,7 @@ A web-based management system designed to manage gym members, memberships, train
 ## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KerolosEssa1&theme=tokyonight&no-frame=true&row=1&column=6" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=KerolosEssa1&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -117,9 +106,7 @@ A web-based management system designed to manage gym members, memberships, train
 ## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -141,5 +128,5 @@ A web-based management system designed to manage gym members, memberships, train
 ---
 
 <p align="center">
-⭐ From <a href="https://github.com/KerolosEssa1">KerolosEssa1</a>
+  ⭐ From <a href="https://github.com/KerolosEssa1">KerolosEssa1</a>
 </p>

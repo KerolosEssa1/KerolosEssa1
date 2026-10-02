@@ -46,7 +46,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=KerolosEssa1&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=KerolosEssa1&theme=tokyonight"/>
 
 </p>
 

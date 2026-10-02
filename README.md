@@ -131,6 +131,14 @@ Building Real Projects
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="./output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -143,18 +151,6 @@ Building Real Projects
 
 <a href="https://www.linkedin.com/in/kerolos-essa-753442290/">
   LinkedIn
-</a>
-
-</p>
-
----
-
-## 📌 GitHub
-
-<p align="center">
-
-<a href="https://github.com/KerolosEssa1">
-  Visit my GitHub profile
 </a>
 
 </p>

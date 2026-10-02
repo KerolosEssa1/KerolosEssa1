@@ -1,33 +1,84 @@
 <h1 align="center">Hi 👋, I'm Kerolos Essa</h1>
-<h3 align="center">Full Stack Developer | Cybersecurity Enthusiast</h3>
+
+<h3 align="center">Backend PHP Developer | Full Stack Web Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Cybersecurity+Learner;Computer+Science+Student;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+PHP+Developer;Full+Stack+Web+Developer;Computer+Science+Student;Building+Web+Applications&center=true&width=500&height=50" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=KerolosEssa1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=KerolosEssa1&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 💻 Full Stack Web Developer
-* 🎓 Computer Science Student
-* 🔐 Passionate about Cybersecurity
-* 🧠 Currently learning Web Security & Advanced Development
-* 🚀 Goal: Become a Professional Security Engineer
+- 💻 Backend PHP Developer & Full Stack Web Developer
+- 🎓 Computer Science Student
+- 🐘 Currently learning PHP & Laravel
+- 🗄️ Working with MySQL and relational databases
+- 🌐 Building Web Applications and E-Commerce Systems
+- 🔧 Interested in Backend Development, APIs, and Database Design
+- 🚀 Always learning and improving my development skills
 
 ---
 
-## 🚀 Languages and Tools
+## 🛠️ Languages & Technologies
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,linux,laravel" />
 
 </p>
+
+---
+
+## 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js" />
+
+</p>
+
+- PHP
+- MySQL
+- Laravel
+- JavaScript
+- Backend Architecture
+- REST APIs
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 PHP E-Commerce Web Application
+
+A full E-Commerce Web Application built using PHP.
+
+**Technologies:**
+- PHP
+- HTML
+- CSS
+- JavaScript
+- JSON
+- Sessions
+
+🔗 [View Project](https://github.com/KerolosEssa1/PMS-project)
+
+---
+
+### 🏋️ Gym Management System
+
+A web-based management system designed to manage gym members, memberships, trainers, payments, attendance, and other gym operations.
+
+**Technologies:**
+- PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
 
 ---
 
@@ -35,9 +86,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KerolosEssa1&show_icons=true&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=KerolosEssa1&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KerolosEssa1&layout=compact&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KerolosEssa1&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -47,7 +98,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=KerolosEssa1&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=KerolosEssa1&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -57,7 +108,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KerolosEssa1&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=KerolosEssa1&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </p>
 
@@ -67,26 +118,28 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/KerolosEssa1">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/kerolos-essa-753442290/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </p>
 
 ---
 
-⭐ From [KerolosEssa1](https://github.com/KerolosEssa1)
+<p align="center">
+⭐ From <a href="https://github.com/KerolosEssa1">KerolosEssa1</a>
+</p>

@@ -16,49 +16,71 @@
 * 🗄️ Working with MySQL and relational databases
 * 🌐 Building Web Applications and E-Commerce Systems
 * 🔧 Interested in Backend Development, APIs, and Database Design
-* 🚀 Always learning and improving my development skills
+* 🚀 Always Learning and Building New Projects
 
 ---
 
-## 🛠️ Skills
+## 🚀 Languages and Tools
 
-### Programming Languages
+<p align="center">
 
-* PHP
-* JavaScript
-* HTML
-* CSS
-* SQL
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,linux,laravel" />
 
-### Backend
-
-* PHP
-* Laravel
-* REST APIs
-* Sessions & Authentication
-* CRUD Operations
-
-### Database
-
-* MySQL
-* Database Design
-* SQL
-* JSON
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* XAMPP
+</p>
 
 ---
 
-## 🚀 Projects
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KerolosEssa1&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KerolosEssa1&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=KerolosEssa1&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KerolosEssa1&theme=tokyonight&row=1&column=6"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="./output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 ### 🛒 PHP E-Commerce Web Application
 
-A full E-Commerce Web Application built with PHP.
+A full E-Commerce Web Application built using PHP.
+
+**Technologies:**
+
+`PHP` `HTML` `CSS` `JavaScript` `JSON`
 
 **Features:**
 
@@ -67,11 +89,7 @@ A full E-Commerce Web Application built with PHP.
 * Product Management
 * Shopping Cart
 * Checkout
-* JSON-based data storage
-
-**Technologies:**
-
-`PHP` `HTML` `CSS` `JavaScript` `JSON`
+* JSON-based Data Storage
 
 🔗 [View Project](https://github.com/KerolosEssa1/PMS-project)
 
@@ -79,9 +97,13 @@ A full E-Commerce Web Application built with PHP.
 
 ### 🏋️ Gym Management System
 
-A web-based system for managing gym operations.
+A web-based management system for managing gym operations.
 
-**Main Features:**
+**Technologies:**
+
+`PHP` `MySQL` `HTML` `CSS` `JavaScript`
+
+**Features:**
 
 * Members Management
 * Memberships
@@ -91,66 +113,30 @@ A web-based system for managing gym operations.
 * Expenses
 * Admin & Manager Dashboard
 
-**Technologies:**
-
-`PHP` `MySQL` `HTML` `CSS` `JavaScript`
-
 ---
 
 ## 📚 Currently Learning
 
-```text
-PHP
- ↓
-MySQL
- ↓
-JavaScript
- ↓
-OOP
- ↓
-Laravel
- ↓
-REST APIs
- ↓
-Full Stack Web Development
-```
+* PHP
+* MySQL
+* JavaScript
+* Object-Oriented Programming
+* Laravel
+* REST APIs
+* Database Design
 
 ---
 
-## 🎯 Current Focus
-
-```text
-Backend Development
-        +
-Database Design
-        +
-PHP & Laravel
-        +
-Building Real Projects
-```
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="./output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-## 🌐 Connect With Me
+## 🌐 Connect with Me
 
 <p align="center">
 
 <a href="https://github.com/KerolosEssa1">
-  GitHub
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
-  •  
-
 <a href="https://www.linkedin.com/in/kerolos-essa-753442290/">
-  LinkedIn
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
@@ -158,9 +144,5 @@ Building Real Projects
 ---
 
 <p align="center">
-  Thanks for visiting my profile! 👋
-</p>
-
-<p align="center">
-  <b>Keep Learning • Keep Building • Keep Improving 🚀</b>
+⭐ From <a href="https://github.com/KerolosEssa1">KerolosEssa1</a>
 </p>

@@ -3,7 +3,7 @@
 <h3 align="center">Backend PHP Developer | Full Stack Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=50&lines=Backend+PHP+Developer;Full+Stack+Web+Developer;Computer+Science+Student;Building+Web+Applications" alt="Typing SVG" />
+  Computer Science Student • PHP • MySQL • Laravel • Web Development
 </p>
 ---
 

@@ -22,11 +22,7 @@
 
 ## 🚀 Languages and Tools
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,linux,laravel" />
-
-</p>
+![Languages and Tools](https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,linux,laravel)
 
 ---
 
